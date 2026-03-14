@@ -1,0 +1,11 @@
+[project]
+name = "intervals-mcp-server"
+version = "0.1.0"
+description = "MCP server for intervals.icu"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anyio>=4.12.1",
+    "httpx>=0.28.1",
+    "mcp>=1.26.0",
+]

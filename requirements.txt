@@ -1,3 +1,0 @@
-anyio
-mcp
-httpx
